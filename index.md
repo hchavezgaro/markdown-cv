@@ -5,11 +5,11 @@ title: Héctor Chávez's CV
 # Héctor Chávez García Robles
 
 
-Politólogo con 4 años de experiencia en el análisis de evidencia para la toma de decisiones tanto en el ámbito gubernamental y no gubernamental.
+- Politólogo con 4 años de experiencia en el análisis de evidencia para la toma de decisiones tanto en el ámbito gubernamental y no gubernamental.
 
-Dichos análisis los presento mediante gráficas, mapas, tablas, diagramas, palabras e ilustraciones.
+- Dichos análisis los presento mediante gráficas, mapas, tablas, diagramas, palabras e ilustraciones.
 
-Durante mis funciones, los análisis se han presentado tanto en artículos de periodismo digital como en gabinetes gubernamentales de seguridad y salud.
+- Durante mis funciones, los análisis se han presentado tanto en artículos de periodismo digital como en gabinetes gubernamentales de seguridad y salud.
 
 <div id="webaddress">
 <a href="hector.chaga94@gmail.com">hector.chaga94@gmail.com</a>
@@ -29,20 +29,20 @@ __Gerencia del Poder__
 - Especialista en análisis de datos 
 * Programación de tableros de control y elaboración de análisis electorales 
 
-`Agosto 2020-Diciembre 2020`
+`Agosto 2020`
 __Agencia Digital de Innovación Pública__
 - Subdirector de Análisis de Datos
 
-`Diciembre 2018-Septiembre 2020`
+`Diciembre 2018`
 __Secretaría de Educación Pública__
 - Subdirector en la coordinación de asesores de la Subsecretaría de Educación Básica.
 
-`Julio 2017-Noviembre 2018`
+`Julio 2017`
 __Data Cívica__
 - Analista de datos senior. 
 - Project Manager.
 
-`Enero 2016-Junio 2017`
+`Enero 2016`
 __Instituto Tecnológico Autónomo de México__
 - Asistente de investigación del jefe de departamento de Ciencia Política.
 
