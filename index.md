@@ -20,7 +20,7 @@ __Instituto Tecnológico Autónomo de México__
 
 
 ## Experiencia profesional
-`Enero 2021-actualidad`
+`Enero 2021`
 __Gerencia del Poder__
 - Especialista en análisis de datos 
 * Programación de tableros de control y elaboración de análisis electorales 
