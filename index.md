@@ -2,89 +2,61 @@
 layout: cv
 title: Héctor Chávez's CV
 ---
-# Isaac Newton
-Politólogo, analista de datos.
+# Héctor Chávez García Robles
+Politólogo con 4 años de experiencia en el análisis de evidencia para la toma de decisiones tanto en el ámbito gubernamental y no gubernamental.
+
+Dichos análisis los presento mediante gráficas, mapas, tablas, diagramas, palabras e ilustraciones.
+
+Durante mis funciones, los análisis se han presentado tanto en artículos de periodismo digital como en gabinetes gubernamentales de seguridad y salud.
 
 <div id="webaddress">
 <a href="hector.chaga94@gmail.com">hector.chaga94@gmail.com</a>
 </div>
 
+## Educación
 
-## Actualmente
-
-Especialista en análisis 
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2012-2017`
+__Instituto Tecnológico Autónomo de México__
+- Licenciatura en Ciencia Política
+- Titulación: *"Las condiciones de la relación entre pobreza y crimen: un análisis desde la teoría y la evidencia"*
 
 
-### Research interests
+## Experiencia profesional
+`Enero 2021-actualidad`
+__Gerencia del Poder__
+- Especialista en análisis de datos 
+* Programación de tableros de control y elaboración de análisis electorales 
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Agosto 2020-Diciembre 2020`
+__Agencia Digital de Innovación Pública__
+- Subdirector de Análisis de Datos
 
+`Diciembre 2018-Septiembre 2020`
+__Secretaría de Educación Pública__
+- Subdirector en la coordinación de asesores de la Subsecretaría de Educación Básica.
 
-## Education
+`Julio 2017-Noviembre 2018`
+__Data Cívica__
+- Analista de datos senior. 
+- Project Manager.
 
-`1654-1660`
-__The King's School, Grantham.__
+`Enero 2016-Junio 2017`
+__Instituto Tecnológico Autónomo de México__
+- Asistente de investigación del jefe de departamento de Ciencia Política.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Informática
 
-- Sizar
+R, Stata y Microsoft Office.
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Publicaciones en 2018
 
-- Fellow
+**Morir por estar en la boleta**. [Animal Político](https://www.animalpolitico.com/el-foco/morir-por-estar-en-la-boleta-los-candidatos-asesinados-en-mexico/)
 
+**¡Síganme los buenos! Trayectoria de funcionarios**. [Nexos](https://parentesis.nexos.com.mx/?p=275) 
 
+**Próxima estación: acoso**. [Animal Político](https://www.animalpolitico.com/el-foco/proxima-estacion-acoso/)
 
-## Awards
+**María y José Luis: los nombres de los desaparecidos en México**. [Animal Político](https://www.animalpolitico.com/el-foco/maria-guadalupe-jose-luis-nombres-desaparecidos/)
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+**Lecciones desde Nayarit**. [Animal Político](https://www.animalpolitico.com/blogueros-el-foco/2018/01/19/lecciones-desde-nayarit-desapariciones-fosas-y-manipulacion-de-datos/)
 
