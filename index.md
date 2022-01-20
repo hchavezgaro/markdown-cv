@@ -1,19 +1,18 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Héctor Chávez's CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Politólogo, analista de datos.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hector.chaga94@gmail.com">hector.chaga94@gmail.com</a>
 </div>
 
 
-## Currently
+## Actualmente
 
-Standing on the shoulders of giants
+Especialista en análisis 
 
 ### Specialized in
 
