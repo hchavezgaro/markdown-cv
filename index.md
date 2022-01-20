@@ -5,11 +5,7 @@ title: Héctor Chávez's CV
 # Héctor Chávez García Robles
 
 
-- Politólogo con 4 años de experiencia en el análisis de evidencia para la toma de decisiones tanto en el ámbito gubernamental y no gubernamental.
-
-- Dichos análisis los presento mediante gráficas, mapas, tablas, diagramas, palabras e ilustraciones.
-
-- Durante mis funciones, los análisis se han presentado tanto en artículos de periodismo digital como en gabinetes gubernamentales de seguridad y salud.
+Politólogo con 4 años de experiencia en el análisis de evidencia para la toma de decisiones tanto en el ámbito gubernamental y no gubernamental.
 
 <div id="webaddress">
 <a href="hector.chaga94@gmail.com">hector.chaga94@gmail.com</a>
